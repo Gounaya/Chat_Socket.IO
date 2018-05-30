@@ -1,10 +1,12 @@
 {
   "name": "chat",
   "version": "1.0.0",
-  "description": "startup project",
-  "main": "index.js",
+  "description": "Chat project",
+  "main": "app.js",
   "dependencies": {
     "express": "4.16.3",
     "socket.io": "2.1.1"
-  }
+  },
+  "author": "Gounaya",
+  "license": "ISC"
 }
